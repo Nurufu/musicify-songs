@@ -242,35 +242,39 @@
       "file":"https://github.com/knijn/musicify-songs/raw/main/camellia/camellia-finorza.dfpwm",
       "time":271
     },
-      {
-        "file": "https%3A%2F%2Fm.knijn.one%2F6arelyhuman%2520-%2520Divinity%2F01+-+Human+Design.flac",
-        "type": "song",
-        "author": "6arelyhuman",
-        "name": "Human Design"
-      },
-      {
-        "file": "https%3A%2F%2Fm.knijn.one%2F6arelyhuman%2520-%2520Divinity%2F02+-+Violence.flac",
-        "type": "song",
-        "author": "6arelyhuman",
-        "name": "Violence"
-      },
-      {
-        "file": "https%3A%2F%2Fm.knijn.one%2F6arelyhuman%2520-%2520Divinity%2F03+-+Traumatized.flac",
-        "type": "song",
-        "author": "6arelyhuman",
-        "name": "Traumatized"
-      },
-      {
-        "file": "https%3A%2F%2Fm.knijn.one%2F6arelyhuman%2520-%2520Divinity%2F04+-+Join+The+Cult.flac",
-        "type": "song",
-        "author": "6arelyhuman",
-        "name": "Join The Cult"
-      },
-      {
-        "file": "https%3A%2F%2Fm.knijn.one%2F6arelyhuman%2520-%2520Divinity%2F05+-+Non-binary+Jesus.flac",
-        "type": "song",
-        "author": "6arelyhuman",
-        "name": "Non-binary Jesus"
-      }
+    {
+      "file": "https://m.knijn.one/6arelyhuman%20-%20Divinity/01 - Human Design.flac",
+      "author": "6arelyhuman",
+      "type": "song",
+      "name": "Human Design",
+      "lyrics": "https://m.knijn.one/6arelyhuman%20-%20Divinity/01 - Human Design.lrc"
+    },
+    {
+      "file": "https://m.knijn.one/6arelyhuman%20-%20Divinity/02 - Violence.flac",
+      "author": "6arelyhuman",
+      "type": "song",
+      "name": "Violence",
+      "lyrics": "https://m.knijn.one/6arelyhuman%20-%20Divinity/02 - Violence.lrc"
+    },
+    {
+      "file": "https://m.knijn.one/6arelyhuman%20-%20Divinity/03 - Traumatized.flac",
+      "author": "6arelyhuman",
+      "type": "song",
+      "name": "Traumatized",
+      "lyrics": "https://m.knijn.one/6arelyhuman%20-%20Divinity/03 - Traumatized.lrc"
+    },
+    {
+      "file": "https://m.knijn.one/6arelyhuman%20-%20Divinity/04 - Join The Cult.flac",
+      "type": "song",
+      "author": "6arelyhuman",
+      "name": "Join The Cult"
+    },
+    {
+      "file": "https://m.knijn.one/6arelyhuman%20-%20Divinity/05 - Non-binary Jesus.flac",
+      "author": "6arelyhuman",
+      "type": "song",
+      "name": "Non-binary Jesus",
+      "lyrics": "https://m.knijn.one/6arelyhuman%20-%20Divinity/05 - Non-binary Jesus.lrc"
+    }
   ]
 }

@@ -5,10 +5,10 @@ local data = {}
 for i,o in pairs(fileList) do
   print("File: " .. o)
   data[i] = {}
-  data[i].file = textutils.urlEncode(baseURL .. o)
-  local h = http.get(textutils.urlEncode(baseURL .. o))
+  data[i].file = baseURL .. o
+  local h = http.get(baseURL .. o:sub(1, -6) .. ".lrc")
   if h then
-    data[i].lyrics = textutils.urlEncode(baseURL .. o:sub(1, -6) .. ".lrc")
+    data[i].lyrics = baseURL .. o:sub(1, -6) .. ".lrc"
     h.close()
   end
   data[i].type = "song"
