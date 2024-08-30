@@ -241,6 +241,13 @@
       "speed":1,
       "file":"https://github.com/knijn/musicify-songs/raw/main/camellia/camellia-finorza.dfpwm",
       "time":271
+    },
+    {
+      "type":"song",
+      "name":"Human Design",
+      "author":"6arelyhuman",
+      "speed":1,
+      "file":"https://m.knijn.one/6arelyhuman%20-%20Divinity/01%20-%20Human%20Design.flac"
     }
   ]
 }
