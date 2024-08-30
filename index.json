@@ -241,40 +241,6 @@
       "speed":1,
       "file":"https://github.com/knijn/musicify-songs/raw/main/camellia/camellia-finorza.dfpwm",
       "time":271
-    },
-    {
-      "file": "https://m.knijn.one/6arelyhuman%20-%20Divinity/01 - Human Design.flac",
-      "author": "6arelyhuman",
-      "type": "song",
-      "name": "Human Design",
-      "lyrics": "https://m.knijn.one/6arelyhuman%20-%20Divinity/01 - Human Design.lrc"
-    },
-    {
-      "file": "https://m.knijn.one/6arelyhuman%20-%20Divinity/02 - Violence.flac",
-      "author": "6arelyhuman",
-      "type": "song",
-      "name": "Violence",
-      "lyrics": "https://m.knijn.one/6arelyhuman%20-%20Divinity/02 - Violence.lrc"
-    },
-    {
-      "file": "https://m.knijn.one/6arelyhuman%20-%20Divinity/03 - Traumatized.flac",
-      "author": "6arelyhuman",
-      "type": "song",
-      "name": "Traumatized",
-      "lyrics": "https://m.knijn.one/6arelyhuman%20-%20Divinity/03 - Traumatized.lrc"
-    },
-    {
-      "file": "https://m.knijn.one/6arelyhuman%20-%20Divinity/04 - Join The Cult.flac",
-      "type": "song",
-      "author": "6arelyhuman",
-      "name": "Join The Cult"
-    },
-    {
-      "file": "https://m.knijn.one/6arelyhuman%20-%20Divinity/05 - Non-binary Jesus.flac",
-      "author": "6arelyhuman",
-      "type": "song",
-      "name": "Non-binary Jesus",
-      "lyrics": "https://m.knijn.one/6arelyhuman%20-%20Divinity/05 - Non-binary Jesus.lrc"
     }
   ]
 }
