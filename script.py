@@ -5,7 +5,7 @@ import os
 #author = input("Artist:")
 #file = input("url:")
 
-json_string = '{"songs": []}'
+json_string = '{"latestVersion": "3.2.1", "indexName":"Apollo", "songs": []}'
 
 data = json.loads(json_string)
 
@@ -15,7 +15,7 @@ for file in os.listdir(directory):
     filename = os.fsdecode(file)
     i = 0
     if filename.endswith(".dfpwm"):
-        song = {"type":'song', "name": filename, "author": filename, "speed": 1, "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/" + filename}
+        song = {"type":'song', "name": filename.replace('~', " "), "author": filename.replace('~', " "), "speed": 1, "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/" + filename}
         data["songs"].append(song)
         continue
     else:
