@@ -25,6 +25,20 @@
         },
         {
             "type": "song",
+            "name": "Nobody Likes The Opening Band",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~Nobody~Likes~The~Opening~Band.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Mad IQs",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~Mad~IQs.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "Molly",
             "author": "Mindless Self Indulgence",
             "speed": 1,
@@ -43,6 +57,13 @@
             "author": "CORPSE",
             "speed": 1,
             "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/CORPSE~-~agoraphobic.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Hellbent ",
+            "author": "Mystery Skulls (feat. Snowblood)",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mystery~Skulls~(feat.~Snowblood)~-~Hellbent~.dfpwm"
         },
         {
             "type": "song",
@@ -81,6 +102,13 @@
         },
         {
             "type": "song",
+            "name": "Razzmatazz",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~Razzmatazz.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "Hercules",
             "author": "Watsky",
             "speed": 1,
@@ -92,6 +120,13 @@
             "author": "DragonForce",
             "speed": 1,
             "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/DragonForce~-~Heroes~of~Our~Time.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "The Future",
+            "author": "Mystery Skulls",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mystery~Skulls~-~The~Future.dfpwm"
         },
         {
             "type": "song",
@@ -116,10 +151,24 @@
         },
         {
             "type": "song",
+            "name": "Kiss Goodnight",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~Kiss~Goodnight.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "make eggs, throw eggs",
             "author": "amphee",
             "speed": 1,
             "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/amphee~-~make~eggs,~throw~eggs.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Body High",
+            "author": "Mystery Skulls",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mystery~Skulls~-~Body~High.dfpwm"
         },
         {
             "type": "song",
@@ -263,6 +312,13 @@
         },
         {
             "type": "song",
+            "name": "Forever",
+            "author": "Mystery Skulls",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mystery~Skulls~-~Forever.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "Face Down",
             "author": "The Red Jumpsuit Apparatus",
             "speed": 1,
@@ -347,6 +403,13 @@
         },
         {
             "type": "song",
+            "name": "Sugar Pills",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~Sugar~Pills.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "Foundation",
             "author": "an Unkindness",
             "speed": 1,
@@ -417,6 +480,13 @@
         },
         {
             "type": "song",
+            "name": "From The Gallows",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~From~The~Gallows.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "Vanilla Twilight",
             "author": "Owl City",
             "speed": 1,
@@ -428,6 +498,13 @@
             "author": "S3RL",
             "speed": 1,
             "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/S3RL~-~Dealer.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Paralyzed",
+            "author": "Mystery Skulls",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mystery~Skulls~-~Paralyzed.dfpwm"
         },
         {
             "type": "song",
@@ -466,10 +543,24 @@
         },
         {
             "type": "song",
+            "name": "Magic (feat. Nile Rodgers and Bra",
+            "author": "Mystery Skulls",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mystery~Skulls~-~Magic~(feat.~Nile~Rodgers~and~Bra.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "Taxi Driver Edition",
             "author": "Bakamitai",
             "speed": 1,
             "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Bakamitai~-~Taxi~Driver~Edition.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Leave Me Alone",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~Leave~Me~Alone.dfpwm"
         },
         {
             "type": "song",
@@ -501,10 +592,24 @@
         },
         {
             "type": "song",
+            "name": "Number 1 (feat. Brandy and Nile R",
+            "author": "Mystery Skulls",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mystery~Skulls~-~Number~1~(feat.~Brandy~and~Nile~R.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "Ruler of Everything",
             "author": "Tally Hall",
             "speed": 1,
             "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Tally~Hall~-~Ruler~of~Everything.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Every Note",
+            "author": "Mystery Skulls",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mystery~Skulls~-~Every~Note.dfpwm"
         },
         {
             "type": "song",
@@ -519,6 +624,13 @@
             "author": "Mumford & Sons",
             "speed": 1,
             "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mumford~&~Sons~-~Little~Lion~Man.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Door",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~Door.dfpwm"
         },
         {
             "type": "song",
@@ -585,6 +697,13 @@
         },
         {
             "type": "song",
+            "name": "Fantasy",
+            "author": "Mystery Skulls",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mystery~Skulls~-~Fantasy.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "Everybody ",
             "author": "Backstreet Boys",
             "speed": 1,
@@ -596,6 +715,13 @@
             "author": "Finger Eleven",
             "speed": 1,
             "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Finger~Eleven~-~Paralyzer.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Clusterhug",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~Clusterhug.dfpwm"
         },
         {
             "type": "song",
@@ -641,6 +767,13 @@
         },
         {
             "type": "song",
+            "name": "Need You Here",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~Need~You~Here.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "Peaches",
             "author": "The Presidents Of The United States Of America",
             "speed": 1,
@@ -676,6 +809,20 @@
         },
         {
             "type": "song",
+            "name": "When I'm With You",
+            "author": "Mystery Skulls",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mystery~Skulls~-~When~I'm~With~You.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Scarlet Fire",
+            "author": "Otis McDonald",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Otis~McDonald~-~Scarlet~Fire.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "Ohio Is for Emo Kids",
             "author": "Canadian Softball",
             "speed": 1,
@@ -687,6 +834,13 @@
             "author": "Worthikids",
             "speed": 1,
             "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Worthikids~-~Friends~In~Low~Places.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "New Invention",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~New~Invention.dfpwm"
         },
         {
             "type": "song",
@@ -725,6 +879,13 @@
         },
         {
             "type": "song",
+            "name": "Lights Go Down",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I~DONT~KNOW~HOW~BUT~THEY~FOUND~ME~-~Lights~Go~Down.dfpwm"
+        },
+        {
+            "type": "song",
             "name": "House of Wolves",
             "author": "My Chemical Romance",
             "speed": 1,
@@ -743,6 +904,13 @@
             "author": "blink-182",
             "speed": 1,
             "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/blink-182~-~Always.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Ghost",
+            "author": "Mystery Skulls",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mystery~Skulls~-~Ghost.dfpwm"
         }
     ]
 }
