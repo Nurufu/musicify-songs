@@ -1,9 +1,9 @@
 import json
 import os
+import re
 
-#name = input("Song name:")
-#author = input("Artist:")
-#file = input("url:")
+artist = r"\w.*(?= -)"
+title = r"(?<=- )\w.*(?=.dfpwm)"
 
 url_path = "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/"
 
@@ -15,9 +15,10 @@ directory = os.fsencode("music")
 
 for file in os.listdir(directory):
     filename = os.fsdecode(file)
-    i = 0
     if filename.endswith(".dfpwm"):
-        song = {"type":'song', "name": filename.replace('~', " "), "author": filename.replace('~', " "), "speed": 1, "file": url_path + filename}
+        author = re.search(artist, filename.replace('~', " "))
+        music = re.search(title, filename.replace('~', " "))
+        song = {"type":'song', "name": music.group(0), "author": author.group(0), "speed": 1, "file": url_path + filename}
         data["songs"].append(song)
         continue
     else:
