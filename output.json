@@ -1,0 +1,746 @@
+{
+    "songs": [
+        {
+            "type": "song",
+            "name": "Green Day - Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company).dfpwm",
+            "author": "Green Day - Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company).dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Green Day - Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company).dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Watsky - Cardboard Castles.dfpwm",
+            "author": "Watsky - Cardboard Castles.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Watsky - Cardboard Castles.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Foo Fighters - The Pretender.dfpwm",
+            "author": "Foo Fighters - The Pretender.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Foo Fighters - The Pretender.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Wilbur Soot - Your New Boyfriend.dfpwm",
+            "author": "Wilbur Soot - Your New Boyfriend.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Wilbur Soot - Your New Boyfriend.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "blink-182 - Anthem Part Two.dfpwm",
+            "author": "blink-182 - Anthem Part Two.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/blink-182 - Anthem Part Two.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "S3RL - Dealer.dfpwm",
+            "author": "S3RL - Dealer.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/S3RL - Dealer.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Backstreet Boys - Everybody (Backstreet's Back) - Extended Version.dfpwm",
+            "author": "Backstreet Boys - Everybody (Backstreet's Back) - Extended Version.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Backstreet Boys - Everybody (Backstreet's Back) - Extended Version.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "My Chemical Romance - House of Wolves.dfpwm",
+            "author": "My Chemical Romance - House of Wolves.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/My Chemical Romance - House of Wolves.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Phoenix - 1901.dfpwm",
+            "author": "Phoenix - 1901.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Phoenix - 1901.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "DragonForce - Heroes of Our Time.dfpwm",
+            "author": "DragonForce - Heroes of Our Time.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/DragonForce - Heroes of Our Time.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "The Presidents Of The United States Of America - Peaches.dfpwm",
+            "author": "The Presidents Of The United States Of America - Peaches.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/The Presidents Of The United States Of America - Peaches.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "MC Frontalot - First World Problem.dfpwm",
+            "author": "MC Frontalot - First World Problem.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/MC Frontalot - First World Problem.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Yellowcard - Light Up The Sky.dfpwm",
+            "author": "Yellowcard - Light Up The Sky.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Yellowcard - Light Up The Sky.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Owl City - Vanilla Twilight.dfpwm",
+            "author": "Owl City - Vanilla Twilight.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Owl City - Vanilla Twilight.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Bug Hunter - Disco! in the Panic Room.dfpwm",
+            "author": "Bug Hunter - Disco! in the Panic Room.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Bug Hunter - Disco! in the Panic Room.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Mindless Self Indulgence - Lights Out.dfpwm",
+            "author": "Mindless Self Indulgence - Lights Out.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mindless Self Indulgence - Lights Out.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Watsky - Sloppy Seconds.dfpwm",
+            "author": "Watsky - Sloppy Seconds.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Watsky - Sloppy Seconds.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "ovg!, Grioten - Death Lotto.dfpwm",
+            "author": "ovg!, Grioten - Death Lotto.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/ovg!, Grioten - Death Lotto.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Lil Dicky, Brendon Urie - Molly (feat. Brendon Urie of Panic at the Disco).dfpwm",
+            "author": "Lil Dicky, Brendon Urie - Molly (feat. Brendon Urie of Panic at the Disco).dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Lil Dicky, Brendon Urie - Molly (feat. Brendon Urie of Panic at the Disco).dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "CORPSE - agoraphobic.dfpwm",
+            "author": "CORPSE - agoraphobic.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/CORPSE - agoraphobic.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Paramore - Brick by Boring Brick.dfpwm",
+            "author": "Paramore - Brick by Boring Brick.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Paramore - Brick by Boring Brick.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "The Red Jumpsuit Apparatus - Face Down.dfpwm",
+            "author": "The Red Jumpsuit Apparatus - Face Down.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/The Red Jumpsuit Apparatus - Face Down.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Evanescence - Bring Me To Life.dfpwm",
+            "author": "Evanescence - Bring Me To Life.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Evanescence - Bring Me To Life.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Watsky, Kate Nash - Hey Asshole.dfpwm",
+            "author": "Watsky, Kate Nash - Hey Asshole.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Watsky, Kate Nash - Hey Asshole.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Jonathan Coulton - Code Monkey.dfpwm",
+            "author": "Jonathan Coulton - Code Monkey.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Jonathan Coulton - Code Monkey.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Carpenter Brut, Yann Ligner - Maniac.dfpwm",
+            "author": "Carpenter Brut, Yann Ligner - Maniac.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Carpenter Brut, Yann Ligner - Maniac.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "David Michael Bennett - Fire Fire.dfpwm",
+            "author": "David Michael Bennett - Fire Fire.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/David Michael Bennett - Fire Fire.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "The Fray - How to Save a Life.dfpwm",
+            "author": "The Fray - How to Save a Life.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/The Fray - How to Save a Life.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "I DONT KNOW HOW BUT THEY FOUND ME - Choke.dfpwm",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME - Choke.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I DONT KNOW HOW BUT THEY FOUND ME - Choke.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Panic! At The Disco - I Write Sins Not Tragedies.dfpwm",
+            "author": "Panic! At The Disco - I Write Sins Not Tragedies.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Panic! At The Disco - I Write Sins Not Tragedies.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Shoe - Egg.dfpwm",
+            "author": "Shoe - Egg.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Shoe - Egg.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "The Book Cover - Numb.dfpwm",
+            "author": "The Book Cover - Numb.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/The Book Cover - Numb.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Teddy Hyde - Sex with a Ghost.dfpwm",
+            "author": "Teddy Hyde - Sex with a Ghost.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Teddy Hyde - Sex with a Ghost.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Two Door Cinema Club - Undercover Martyn.dfpwm",
+            "author": "Two Door Cinema Club - Undercover Martyn.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Two Door Cinema Club - Undercover Martyn.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "RYUJIN - Honesty.dfpwm",
+            "author": "RYUJIN - Honesty.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/RYUJIN - Honesty.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Mindless Self Indulgence - Shut Me Up.dfpwm",
+            "author": "Mindless Self Indulgence - Shut Me Up.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mindless Self Indulgence - Shut Me Up.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Lil Dicky - Bruh....dfpwm",
+            "author": "Lil Dicky - Bruh....dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Lil Dicky - Bruh....dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Watsky - Seizure Boy.dfpwm",
+            "author": "Watsky - Seizure Boy.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Watsky - Seizure Boy.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "The All-American Rejects - Gives You Hell.dfpwm",
+            "author": "The All-American Rejects - Gives You Hell.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/The All-American Rejects - Gives You Hell.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Evanescence - Going Under.dfpwm",
+            "author": "Evanescence - Going Under.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Evanescence - Going Under.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "DragonForce - Cry Thunder.dfpwm",
+            "author": "DragonForce - Cry Thunder.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/DragonForce - Cry Thunder.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Gorillaz - Feel Good Inc..dfpwm",
+            "author": "Gorillaz - Feel Good Inc..dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Gorillaz - Feel Good Inc..dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Mindless Self Indulgence - It Gets Worse.dfpwm",
+            "author": "Mindless Self Indulgence - It Gets Worse.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mindless Self Indulgence - It Gets Worse.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Tom Cardy - H.S.dfpwm",
+            "author": "Tom Cardy - H.S.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Tom Cardy - H.S.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Owl City - The Saltwater Room.dfpwm",
+            "author": "Owl City - The Saltwater Room.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Owl City - The Saltwater Room.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Mindless Self Indulgence - Molly.dfpwm",
+            "author": "Mindless Self Indulgence - Molly.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mindless Self Indulgence - Molly.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Green Day - Basket Case.dfpwm",
+            "author": "Green Day - Basket Case.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Green Day - Basket Case.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Watsky - Hercules.dfpwm",
+            "author": "Watsky - Hercules.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Watsky - Hercules.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Wilbur Soot - Soft Boy.dfpwm",
+            "author": "Wilbur Soot - Soft Boy.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Wilbur Soot - Soft Boy.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Brick + Mortar - Terrible Things.dfpwm",
+            "author": "Brick + Mortar - Terrible Things.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Brick + Mortar - Terrible Things.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Gorillaz - Clint Eastwood.dfpwm",
+            "author": "Gorillaz - Clint Eastwood.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Gorillaz - Clint Eastwood.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Anew Revolution - Head Against The Wall.dfpwm",
+            "author": "Anew Revolution - Head Against The Wall.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Anew Revolution - Head Against The Wall.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Foo Fighters - Everlong.dfpwm",
+            "author": "Foo Fighters - Everlong.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Foo Fighters - Everlong.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "R\u00d8NIN - ALL GIRLS ARE THE SAME.dfpwm",
+            "author": "R\u00d8NIN - ALL GIRLS ARE THE SAME.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/R\u00d8NIN - ALL GIRLS ARE THE SAME.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Louie Zong - YOUR HEAD'S ON FIRE.dfpwm",
+            "author": "Louie Zong - YOUR HEAD'S ON FIRE.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Louie Zong - YOUR HEAD'S ON FIRE.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "MachineGun Kiss - Full Spec Edition.dfpwm",
+            "author": "MachineGun Kiss - Full Spec Edition.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/MachineGun Kiss - Full Spec Edition.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Tiny Meat Gang - Walk Man.dfpwm",
+            "author": "Tiny Meat Gang - Walk Man.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Tiny Meat Gang - Walk Man.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Steam Powered Giraffe - Brass Goggles.dfpwm",
+            "author": "Steam Powered Giraffe - Brass Goggles.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Steam Powered Giraffe - Brass Goggles.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "blink-182 - Always.dfpwm",
+            "author": "blink-182 - Always.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/blink-182 - Always.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Rare Americans - Brittle Bones Nicky.dfpwm",
+            "author": "Rare Americans - Brittle Bones Nicky.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Rare Americans - Brittle Bones Nicky.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "The Gentle Men - 2019 Guy.dfpwm",
+            "author": "The Gentle Men - 2019 Guy.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/The Gentle Men - 2019 Guy.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Coldplay - Yellow.dfpwm",
+            "author": "Coldplay - Yellow.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Coldplay - Yellow.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "amphee - make eggs, throw eggs.dfpwm",
+            "author": "amphee - make eggs, throw eggs.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/amphee - make eggs, throw eggs.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Two Door Cinema Club - What You Know.dfpwm",
+            "author": "Two Door Cinema Club - What You Know.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Two Door Cinema Club - What You Know.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Foo Fighters - Monkey Wrench.dfpwm",
+            "author": "Foo Fighters - Monkey Wrench.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Foo Fighters - Monkey Wrench.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Fort Minor, Styles Of Beyond - Remember the Name (feat. Styles of Beyond).dfpwm",
+            "author": "Fort Minor, Styles Of Beyond - Remember the Name (feat. Styles of Beyond).dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Fort Minor, Styles Of Beyond - Remember the Name (feat. Styles of Beyond).dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Flobots - Handlebars.dfpwm",
+            "author": "Flobots - Handlebars.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Flobots - Handlebars.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "SIAMES - Mr. Fear.dfpwm",
+            "author": "SIAMES - Mr. Fear.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/SIAMES - Mr. Fear.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Tally Hall - Ruler of Everything.dfpwm",
+            "author": "Tally Hall - Ruler of Everything.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Tally Hall - Ruler of Everything.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Bliss n Eso, Watsky - Tear The Roof Off (feat. Watsky).dfpwm",
+            "author": "Bliss n Eso, Watsky - Tear The Roof Off (feat. Watsky).dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Bliss n Eso, Watsky - Tear The Roof Off (feat. Watsky).dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "an Unkindness - Foundation.dfpwm",
+            "author": "an Unkindness - Foundation.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/an Unkindness - Foundation.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "AdhesiveWombat - Funky Sundays.dfpwm",
+            "author": "AdhesiveWombat - Funky Sundays.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/AdhesiveWombat - Funky Sundays.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "potsu x Chance Thrash selfish.dfpwm",
+            "author": "potsu x Chance Thrash selfish.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/potsu x Chance Thrash selfish.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Mindless Self Indulgence - Prescription.dfpwm",
+            "author": "Mindless Self Indulgence - Prescription.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mindless Self Indulgence - Prescription.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Bakamitai - Taxi Driver Edition.dfpwm",
+            "author": "Bakamitai - Taxi Driver Edition.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Bakamitai - Taxi Driver Edition.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Jonathan Coulton - Re- Your Brains.dfpwm",
+            "author": "Jonathan Coulton - Re- Your Brains.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Jonathan Coulton - Re- Your Brains.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Mumford & Sons - Little Lion Man.dfpwm",
+            "author": "Mumford & Sons - Little Lion Man.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Mumford & Sons - Little Lion Man.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Finger Eleven - Paralyzer.dfpwm",
+            "author": "Finger Eleven - Paralyzer.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Finger Eleven - Paralyzer.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Stuck in the Sound - Let\u2019s Go.dfpwm",
+            "author": "Stuck in the Sound - Let\u2019s Go.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Stuck in the Sound - Let\u2019s Go.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "SIAMES - The Wolf.dfpwm",
+            "author": "SIAMES - The Wolf.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/SIAMES - The Wolf.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Evanescence - Call Me When You're Sober.dfpwm",
+            "author": "Evanescence - Call Me When You're Sober.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Evanescence - Call Me When You're Sober.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "blink-182 - All The Small Things.dfpwm",
+            "author": "blink-182 - All The Small Things.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/blink-182 - All The Small Things.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Trapt - Headstrong.dfpwm",
+            "author": "Trapt - Headstrong.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Trapt - Headstrong.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Bug Hunter - 2 Bed, 2 Bath (and a Ghost).dfpwm",
+            "author": "Bug Hunter - 2 Bed, 2 Bath (and a Ghost).dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Bug Hunter - 2 Bed, 2 Bath (and a Ghost).dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "The Book Cover - The Scientist - Lofi Version.dfpwm",
+            "author": "The Book Cover - The Scientist - Lofi Version.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/The Book Cover - The Scientist - Lofi Version.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Worthikids - Friends In Low Places.dfpwm",
+            "author": "Worthikids - Friends In Low Places.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Worthikids - Friends In Low Places.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Lovejoy - Sex Sells.dfpwm",
+            "author": "Lovejoy - Sex Sells.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Lovejoy - Sex Sells.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Green Day - American Idiot.dfpwm",
+            "author": "Green Day - American Idiot.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Green Day - American Idiot.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Watsky - Dedicated To Christina Li.dfpwm",
+            "author": "Watsky - Dedicated To Christina Li.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Watsky - Dedicated To Christina Li.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Canadian Softball - Ohio Is for Emo Kids.dfpwm",
+            "author": "Canadian Softball - Ohio Is for Emo Kids.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Canadian Softball - Ohio Is for Emo Kids.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Porter Robinson - Goodbye To A World.dfpwm",
+            "author": "Porter Robinson - Goodbye To A World.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Porter Robinson - Goodbye To A World.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Twenty One Pilots - Chlorine.dfpwm",
+            "author": "Twenty One Pilots - Chlorine.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Twenty One Pilots - Chlorine.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Panic! At The Disco - Nine in the Afternoon - Single Mix.dfpwm",
+            "author": "Panic! At The Disco - Nine in the Afternoon - Single Mix.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Panic! At The Disco - Nine in the Afternoon - Single Mix.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Tally Hall - Turn the Lights Off.dfpwm",
+            "author": "Tally Hall - Turn the Lights Off.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Tally Hall - Turn the Lights Off.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "I DONT KNOW HOW BUT THEY FOUND ME - Absinthe.dfpwm",
+            "author": "I DONT KNOW HOW BUT THEY FOUND ME - Absinthe.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/I DONT KNOW HOW BUT THEY FOUND ME - Absinthe.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Avenged Sevenfold - Bat Country.dfpwm",
+            "author": "Avenged Sevenfold - Bat Country.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Avenged Sevenfold - Bat Country.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Worthikids - Up.dfpwm",
+            "author": "Worthikids - Up.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Worthikids - Up.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Fall Out Boy - Thnks fr th Mmrs.dfpwm",
+            "author": "Fall Out Boy - Thnks fr th Mmrs.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Fall Out Boy - Thnks fr th Mmrs.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Sum 41 - The Hell Song.dfpwm",
+            "author": "Sum 41 - The Hell Song.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Sum 41 - The Hell Song.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Avenged Sevenfold - Afterlife.dfpwm",
+            "author": "Avenged Sevenfold - Afterlife.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Avenged Sevenfold - Afterlife.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "blink-182 - Adam's Song.dfpwm",
+            "author": "blink-182 - Adam's Song.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/blink-182 - Adam's Song.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Pendulum - Propane Nightmares.dfpwm",
+            "author": "Pendulum - Propane Nightmares.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Pendulum - Propane Nightmares.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Our Stolen Theory - United - L.A.O.S Remix.dfpwm",
+            "author": "Our Stolen Theory - United - L.A.O.S Remix.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Our Stolen Theory - United - L.A.O.S Remix.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Three Days Grace - Animal I Have Become.dfpwm",
+            "author": "Three Days Grace - Animal I Have Become.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Three Days Grace - Animal I Have Become.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Rob Zombie - Dragula.dfpwm",
+            "author": "Rob Zombie - Dragula.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Rob Zombie - Dragula.dfpwm"
+        },
+        {
+            "type": "song",
+            "name": "Sum 41 - Still Waiting.dfpwm",
+            "author": "Sum 41 - Still Waiting.dfpwm",
+            "speed": 1,
+            "file": "https://github.com/Nurufu/musicify-songs/raw/refs/heads/main/music/Sum 41 - Still Waiting.dfpwm"
+        }
+    ]
+}
